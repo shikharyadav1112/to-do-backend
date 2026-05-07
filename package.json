@@ -93,5 +93,14 @@
     "webidl-conversions": "^7.0.0",
     "whatwg-url": "^14.2.0",
     "wrappy": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikharyadav1112/to-do-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shikharyadav1112/to-do-backend/issues"
+  },
+  "homepage": "https://github.com/shikharyadav1112/to-do-backend#readme"
 }
